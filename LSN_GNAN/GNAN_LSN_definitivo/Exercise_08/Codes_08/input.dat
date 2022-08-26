@@ -1,0 +1,26 @@
+2.0
+0.025
+0.604862
+0.794654
+1
+0
+50
+1
+1
+0
+500
+5000
+
+
+  ReadInput >> delta1;
+  ReadInput >> delta2;
+  ReadInput >> sigma;
+  ReadInput >> mu;
+  ReadInput >> beta_start;
+  ReadInput >> test;
+  ReadInput >> Eq_steps;
+  ReadInput >> pari;
+  ReadInput >> histo;
+  ReadInput >> parameters;
+  ReadInput >> nblk;
+  ReadInput >> nstep;

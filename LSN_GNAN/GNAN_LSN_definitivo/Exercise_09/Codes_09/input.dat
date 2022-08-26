@@ -1,0 +1,17 @@
+34
+1000
+300
+4
+0.1
+0.8
+0
+
+  ReadInput >> ncity;
+  ReadInput >> npop;
+  ReadInput >> ngen;
+  ReadInput >> nexp;
+  ReadInput >> mprob;
+  ReadInput >> cprob;
+  ReadInput >> circle;
+
+
